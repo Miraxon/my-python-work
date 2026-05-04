@@ -1,6 +1,6 @@
 apples= int(input("whats the apples price?\n"))
 oranges= int(input("whats the oranges price?\n"))
-bananas= int(input("whats the banans price?\n"))
+bananas= int(input("whats the bananas price?\n"))
 budget= 100
 total= apples + oranges +bananas
 diff=budget-total
